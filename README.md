@@ -1,0 +1,2 @@
+# Visulisation-Case-study-Diamonds-data
+In this case study, we'll be working with a dataset regarding the prices and attributes of approximately 54,000 round-cut diamonds. we'll go through the steps of an explanatory data visualization, systematically starting from univariate visualizations, moving through bivariate visualizations, and finally multivariate visualizations. Finally, we'll work on polishing up selected plots from the analysis so that their main points can be clearly conveyed to others.
